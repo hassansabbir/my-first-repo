@@ -1,0 +1,15 @@
+
+#title {
+    color: blue;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding-bottom: 300px;
+    background-image: url(stone.jpg);
+}
+.header {
+    color: brown;
+    text-align: center;
+}
+
+ol {
+    padding-left: 100px;
+}
